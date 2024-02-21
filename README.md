@@ -12,8 +12,8 @@ View the eligibility result and additional information  🏦.
 ## Contribution:
 Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. Your contributions are highly welcome and appreciated 🙌 !
 
-## Getting Started:
 To get started with the project:
+## Getting Started:
 Clone the repository to your local machine.
 Open the HTML file in a web browser.
 Customize or enhance the application based on your needs.
