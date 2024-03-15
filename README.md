@@ -18,7 +18,4 @@ Clone the repository to your local machine.
 Open the HTML file in a web browser.
 Customize or enhance the application based on your needs.
 
-## License:
-This project is licensed under the MIT License.
-
-## Happy coding!
+# Happy coding!
